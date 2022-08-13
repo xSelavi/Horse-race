@@ -1,0 +1,7 @@
+name: HorseRace
+version: '1.0-SNAPSHOT'
+main: com.ageofelysian.horserace.HorseRace
+api-version: 1.18
+commands:
+  horserace:
+    description: bangin a horse in your face
